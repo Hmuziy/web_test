@@ -1,0 +1,10 @@
+print(type(25))
+print(isinstance(25,int))
+print('''-----小小------
+name:小小
+age:16
+''')
+print('''-----小小------
+   name:小小
+      age:16
+''')
